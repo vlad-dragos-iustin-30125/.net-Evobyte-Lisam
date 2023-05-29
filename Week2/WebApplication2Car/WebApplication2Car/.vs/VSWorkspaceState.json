@@ -1,13 +1,12 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Controllers",
     "\\Data",
     "\\Models",
     "\\Views",
     "\\Views\\Cars",
     "\\wwwroot"
   ],
-  "SelectedNode": "\\WebApplication2Car.sln",
+  "SelectedNode": "\\Controllers",
   "PreviewInSolutionExplorer": false
 }
